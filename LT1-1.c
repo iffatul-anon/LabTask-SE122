@@ -7,6 +7,6 @@ int main(){
     house_rent = (basic_salary*20)/100;
     gross_salary = basic_salary - dearness_allowance - house_rent;
     printf("Niloys Gross Salary: %.2f\n",gross_salary);
-    
+
     return 0;
 }
