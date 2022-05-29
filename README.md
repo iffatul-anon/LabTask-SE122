@@ -3,6 +3,8 @@ Lab Task 1 = 13.
 
 Lab Task 2 = 10.
 
+Lab Task 3 = 8.
+
 
 
 Lab Task-1
@@ -56,5 +58,42 @@ Lab Task-2
 9.Any character is entered through the keyboard, write a program to determine whether the character entered is a capital letter ,a small case letter , a digit or a special symbol.
 
 10. Write a program to find out your grade in final exam. Taking the marks input from user. Follow DIU grading method.
+
+
+
+Lab Task-3
+
+1.Write a program to calculate overtime pay of 10 employees. Overtime is paid at the rate of Rs.
+ 12.00 per hour for every hour worked above 40 hours. Assume that employees do not work for
+ fractional part of an hour.
+
+2. Write a program to find the factorial value of any number entered through the keyboard.
+
+3. Write a program to print all prime numbers from 1 to 300. (Hint: Use nested loops, break and continue)
+
+4. Write a program to add first seven terms of the following series using a for loop: 1/1! + 2/2! + 3/3! + .............
+
+5. Check the following number prime or not by taking input from the user.
+
+6. Print Fibonacci series up to a certain number by taking it input from the user.
+
+7. Print the following pattern of pyramid with star. 8. Print the following pattern.
+ 
+ 1
+ 
+ 21
+ 
+ 321
+ 
+ 4321
+ 
+ 54321
+
+
+
+
+
+
+
 
 
